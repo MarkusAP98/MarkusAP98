@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarkusAP98
-- 👀 I’m interested in Coding/python and Ai
-- 🌱 I’m currently learning Python and Ai
-- 💞️ I’m looking to collaborate on anyone that would like to learn python with me
+- 👀 I’m interested in frontend web development
+- 🌱 I’m currently learning html css
+- 💞️ I’m looking to collaborate on anyone that would like to learn frontend with me
 
 <!---
 MarkusAP98/MarkusAP98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
