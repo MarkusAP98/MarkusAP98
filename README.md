@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkusAP98
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning html css
+- 🌱 I’m currently learning html css and JS
 - 💞️ I’m looking to collaborate on anyone that would like to learn frontend with me
 
 <!---
