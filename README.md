@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarkusAP98
 - 👀 I’m interested in frontend web development
 - 🌱 I’m currently learning html css JS bootstrap and React
-- 💞️ I’m looking to collaborate on anyone that would like to learn frontend with me
+- 💞️ I’m looking to collaborate with anyone that would like to learn frontend with me
 
 <!---
 MarkusAP98/MarkusAP98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
