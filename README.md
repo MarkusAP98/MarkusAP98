@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkusAP98
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning html css JS tailwind and React
+- 🌱 I’m currently learning HTML CSS JS tailwind and React
 - 💞️ I’m looking to collaborate with anyone that would like to learn frontend with me
 
 <!---
